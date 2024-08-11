@@ -9,5 +9,6 @@ Experience: Leadsquared (Software Engineer I), Teleperformance (Customer Advisor
 Key Projects:
 
 NLP SQL Tool: Developed an NLP-powered tool for converting English prompts to SQL with 92% accuracy.
+
 Stock Prediction Model: Created a genetic algorithm-based stock prediction model in R.
 Awards: All-India Rank 01, National Mathematics Olympiad.
